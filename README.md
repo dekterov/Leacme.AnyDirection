@@ -4,6 +4,7 @@
 
 This application features the ability to choose a random direction on your device.
 
+![index](https://user-images.githubusercontent.com/6654513/71701688-3965da80-2d88-11ea-94d0-fc0d7466668c.png)
 ![][image_screenshot]
 
 ## Application Compiling
